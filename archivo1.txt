@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambios agregados en master 
+=======
+carrea fundamentos de programacion
+>>>>>>> develop
